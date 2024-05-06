@@ -31,10 +31,10 @@ export default function App() {
               </ul>
               <ul className="navbar-nav ms-auto mb-2 mb-lg-0" role="search">
                 <a
-                  href="https://santrikoding.com"
+                  href="http://aryasatyaa28.rf.gd/"
                   target="_blank"
-                  className="btn btn-success"
-                  >SANTRIKODING.COM</a
+                  className="btn btn-danger"
+                  >Dapaa</a
                 >
               </ul>
             </div>
