@@ -33,7 +33,7 @@ export default function App() {
                 <a
                   href="http://aryasatyaa28.rf.gd/"
                   target="_blank"
-                  className="btn btn-danger"
+                  className="btn btn-danger~"
                   >Dapaa</a
                 >
               </ul>
